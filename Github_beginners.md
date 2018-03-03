@@ -18,12 +18,12 @@ Connect your github desktop to your user account by choosing “preferences” u
 
 ![github desktop preferences](https://i.imgur.com/dg8DlGY.png)
 
-## Step 2. Clone this repository
+## Step 3. Clone this repository
 Cloning is creating your own version of a repository in your own space.
 Go back to https://github.com/sinairusinek/Teaching and click "clone", then go to your github account and find your a version of the "teaching" repository in your repositories.
 
 
-## Step 3. Create your own Repository
+## Step 4. Create your own Repository
 A repository is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs. We recommend including a README, or a file with information about your project. GitHub makes it easy to add one at the same time you create your new repository. It also offers other common options such as a license file.
 Your repository can be a place where you store ideas, resources, or even share and discuss things with others.
 To create a new repository

@@ -1,13 +1,4 @@
-כדי לערוך את הטקסט הזה לחצו על סימן העפרון:
-![Screen Shot 2018-03-03 at 1.36.07](https://i.imgur.com/cobmxFS.png)
 
-תרגמו את כל השורות הבאות לעברית או ערבית, מתחת לקו התחתון שבסופן.  הדיוק של התרגום לא חשוב במיוחד - חשוב העיצוב של כל שורה ושורה.
-תוכלו לעבור בין מצב עריכה והצגה של התוצאות על ידי בחירה בין
-
-![Screen Shot 2018-03-03 at 1.46.47](https://i.imgur.com/LdQEViM.png)
-
-לבסוף כתבו את שמכם והציעו את השינוי
-***
 # This is a header (H1)
 ## and this is a secondary header (H2)
 - this is a bulleted item on a list
@@ -24,5 +15,11 @@ we can emphasize words with *italics* or with **bold**
 
 [for more markdown syntax see  here](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-
 ***
+Now translate the lines above to Hebrew or Arabic under the line below! 
+(don't worry about the exact translation. The important point is the formatting!)
+
+To edit this page press on the pencil sign (top right). When you are in edit mode you can chose to preview changes (top left).
+When you finish translating, press "Commit changes"!
+***
+your translation:

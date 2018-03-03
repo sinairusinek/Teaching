@@ -28,9 +28,7 @@ Connect your github desktop to your user account by choosing “preferences” u
 
 ## Step 2. Clone this repository
 Cloning is creating your own version of a repository in your own space.
-Go back to https://github.com/sinairusinek/Teaching and click "clone".
-
-No go to your github account and find your clone of the "teaching" repository.
+Go back to https://github.com/sinairusinek/Teaching and click "clone", then go to your github account and find your a version of the "teaching" repository in your repositories.
 
 
 ## Step 3. Create your own Repository
@@ -53,4 +51,3 @@ That is what you will see:
 
 ![Screen Shot 2018-02-24 at 14.40.57](https://i.imgur.com/sQoQ3bc.png)
 
-## Step 3. Clone your Repository

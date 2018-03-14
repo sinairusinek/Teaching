@@ -15,7 +15,17 @@ we can emphasize words with *italics* or with **bold**
 
 [for more markdown syntax see  here](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-***
+#זו כותרת
+##וזו כותרת משנית
+- זה פריט ברשימת נקודות
+- זו עוד פריט
+\- אבל זה לא!
+1. זה פריט ממוספר
+1. זה פריט ממוספר שני למרות שכתבתי אחד שוב!
+*italics* או **bold** אנחנו יכולים להדגיש מילים עם 
+> ואנחנו יכולים לשנן או אם הם ציטוט
+
+
 Now translate the lines above to Hebrew or Arabic under the line below! 
 (don't worry about the exact translation. The important point is the formatting!)
 

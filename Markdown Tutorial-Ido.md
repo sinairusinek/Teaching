@@ -1,4 +1,4 @@
-
+ο»Ώ
 # This is a header (H1)
 ## and this is a secondary header (H2)
 - this is a bulleted item on a list
@@ -15,15 +15,15 @@ we can emphasize words with *italics* or with **bold**
 
 [for more markdown syntax see  here](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-#ζε λεϊψϊ
-##εζε λεϊψϊ ξωπιϊ
-- ζδ τψιθ αψωιξϊ πχεγεϊ
-- ζε ςεγ τψιθ
-\- ΰαμ ζδ μΰ!
-1. ζδ τψιθ ξξερτψ
-1. ζδ τψιθ ξξερτψ ωπι μξψεϊ ωλϊαϊι ΰηγ ωεα!
-*italics* ΰε **bold** ΰπηπε ιλεμιν μδγβιω ξιμιν ςν 
-> εΰπηπε ιλεμιν μωπο ΰε ΰν δν φιθεθ
+#Χ–Χ• Χ›Χ•ΧªΧ¨Χª
+##Χ•Χ–Χ• Χ›Χ•ΧªΧ¨Χª ΧΧ©Χ Χ™Χª
+- Χ–Χ” Χ¤Χ¨Χ™Χ Χ‘Χ¨Χ©Χ™ΧΧª Χ Χ§Χ•Χ“Χ•Χª
+- Χ–Χ• ΧΆΧ•Χ“ Χ¤Χ¨Χ™Χ
+\- ΧΧ‘Χ Χ–Χ” ΧΧ!
+1. Χ–Χ” Χ¤Χ¨Χ™Χ ΧΧΧ•Χ΅Χ¤Χ¨
+1. Χ–Χ” Χ¤Χ¨Χ™Χ ΧΧΧ•Χ΅Χ¤Χ¨ Χ©Χ Χ™ ΧΧΧ¨Χ•Χª Χ©Χ›ΧªΧ‘ΧªΧ™ ΧΧ—Χ“ Χ©Χ•Χ‘!
+*italics* ΧΧ• **bold** ΧΧ Χ—Χ Χ• Χ™Χ›Χ•ΧΧ™Χ ΧΧ”Χ“Χ’Χ™Χ© ΧΧ™ΧΧ™Χ ΧΆΧ 
+> Χ•ΧΧ Χ—Χ Χ• Χ™Χ›Χ•ΧΧ™Χ ΧΧ©Χ Χ ΧΧ• ΧΧ Χ”Χ Χ¦Χ™ΧΧ•Χ
 
 
 Now translate the lines above to Hebrew or Arabic under the line below! 

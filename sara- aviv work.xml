@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_corpus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_corpus.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+     <teiHeader>
+         <fileDesc>
+             <titleStmt>
+                 <title>title of corpus</title>
+                 <author>author</author>
+             </titleStmt>
+	        <publicationStmt>
+	           <p>Publication Information</p>
+	        </publicationStmt>
+	        <sourceDesc>
+	           <p>Information about the source</p>
+	        </sourceDesc>
+         </fileDesc>
+     </teiHeader>
+     <TEI xml:id="MyTextNumber1">
+         <teiHeader>
+             <fileDesc>
+                 <titleStmt>
+                     <title/>
+                     <title>9.6.12
+                     </title>
+                     <author/>
+                 </titleStmt>
+                 <publicationStmt>
+                     <p/>
+                 </publicationStmt>
+                 <sourceDesc>
+                     <p/>
+                 </sourceDesc>
+             </fileDesc>
+         </teiHeader>
+         <text>
+             <body>
+                 <div>
+                     <p/>
+                     <p>שׂרתי,
+                         
+                         אחרי הכל הלא הננו זוג חברים,
+                         
+                         ואני אוהבך בכל מאמצי לבּתי,
+                         
+                         אף שאַת מכעיסה אותי תמרוּרים,
+                         
+                         והנך ילדה רעה, שרה'לה חביבתי!
+                         
+                         
+                         
+                         השבּת היה עצוב, ריק היה לבּי
+                         
+                         וריק היה החדר שמלא עוד ממך. 
+                         
+                         הלכתי ל"השתמח", הסתרתי בשתי בחובּי
+                         
+                         ובאמצע השמחה לחשתי לאבשלום:  לך מפּה!  לך! 
+                         
+                         
+                         
+                         בכל זאת מקווה אני בקרוב לשמוח
+                         
+                         שמחה יותר שקטה וּמלאה עדנה,
+                         
+                         ומבקש אני ממך מהר לי לשלוח
+                         
+                         בחבילת-אחריות את אחותך הקטנה. 
+                         
+                         
+                         
+                         נדבר אודותיך פה, הריני מבטיחך
+                         
+                         ונחשוב עליך עם שקיעת החמה
+                         
+                         ובקרני-הירח נראה מעט מעיני חלומך,
+                         
+                         וּבשקיעת שמש מעט מנשמתך החמה. 
+                         
+                         אבשלום</p>
+                 </div>
+             </body>
+         </text>
+     </TEI>
+     <TEI xml:id="MyTextNumber2">
+         <teiHeader>
+             <fileDesc>
+                 <titleStmt>
+                     <title/>
+                     <author/>
+                 </titleStmt>
+                 <publicationStmt>
+                     <p/>
+                 </publicationStmt>
+                 <sourceDesc>
+                     <p/>
+                 </sourceDesc>
+             </fileDesc>
+         </teiHeader>
+         <text>
+             <body>
+                 <div>
+                     <p/>
+                 </div>
+             </body>
+         </text>
+     </TEI>
+     
+</teiCorpus>

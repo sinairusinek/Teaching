@@ -7,10 +7,29 @@
          <fileDesc>
              <titleStmt>
                  <title>title of corpus</title>
-                 <author>author</author>
+                 <author>עידו רום</author>
              </titleStmt>
 	        <publicationStmt>
-	           <p>Publication Information</p>
+	           
+	                <publisher>פרויקט בן-יהודה</publisher>
+	                <pubPlace>ישראל</pubPlace>
+	                <date>2018-05-15</date>
+	                <availability>
+	                    <p>This is an open access work licensed under a Creative Commons Attribution 4.0 International license.</p>
+	                </availability>
+	                <ptr target="http://bybe.benyehuda.org/read/6539 "/>
+	            
+	           
+	            <publisher>אהרן אמיר</publisher>
+	            <pubPlace>חיפה : שקמונה</pubPlace>
+	                <availability>
+	                    <p>Available under licence only</p>
+	                </availability>
+	                <date when="1971">1971</date>
+	            
+	                
+	           
+	           
 	        </publicationStmt>
 	        <sourceDesc>
 	           <p>Information about the source</p>
@@ -20,7 +39,7 @@
      <TEI xml:id="MyTextNumber1">
          <teiHeader>
              <fileDesc>
-                 <titleStmt>
+                                  <titleStmt>
                      <title/>
                      <title>
                      9.5.16
@@ -34,6 +53,33 @@
                      <p/>
                  </sourceDesc>
              </fileDesc>
+             <profileDesc>
+                 <correspDesc>
+                     <correspAction type="sent">
+                         <persName>אבשלום פיינברג</persName>
+                         <settlement>לא ידוע</settlement>
+                         <date when="1916-05-09">09 may 1916</date>
+                     </correspAction>
+                     <correspAction type="received">
+                         <persName>שרה אהרונסון</persName>
+                         <settlement>לא ידוע</settlement>
+                     </correspAction>
+                     <correspContext>
+                         <ref type="prev"
+                             target="http://www.weber-gesamtausgabe.de/A041209">Previous letter of
+                             <persName>Carl Maria von Weber</persName> 
+                             to <persName>Caroline Brandt</persName>:
+                             <date from="1817-06-19" to="1817-06-20">June 19/20, 1817</date>
+                         </ref>
+                         <ref type="next"
+                             target="http://www.weber-gesamtausgabe.de/A041217">Next letter of
+                             <persName>Carl Maria von Weber</persName> to
+                             <persName>Caroline Brandt</persName>:
+                             <date when="1817-06-27">June 27, 1817</date>
+                         </ref>
+                     </correspContext>
+                 </correspDesc>
+             </profileDesc>
          </teiHeader>
          <text>
              <body>
@@ -61,6 +107,7 @@
      <TEI xml:id="MyTextNumber2">
          <teiHeader>
              <fileDesc>
+                 
                  <titleStmt>
                      <title/>
                      <title>
@@ -75,10 +122,38 @@
                      <p/>
                  </sourceDesc>
              </fileDesc>
+             <profileDesc>
+                 <correspDesc>
+                     <correspAction type="sent">
+                         <persName>אבשלום פיינברג</persName>
+                         <settlement>עתלית</settlement>
+                         <date when="1916-12-16">16 dec 1916</date>
+                     </correspAction>
+                     <correspAction type="received">
+                         <persName>שרה אהרונסון</persName>
+                         <settlement>לא ידוע</settlement>
+                     </correspAction>
+                     <correspContext>
+                         <ref type="prev"
+                             target="http://www.weber-gesamtausgabe.de/A041209">Previous letter of
+                             <persName>Carl Maria von Weber</persName> 
+                             to <persName>Caroline Brandt</persName>:
+                             <date from="1817-06-19" to="1817-06-20">June 19/20, 1817</date>
+                         </ref>
+                         <ref type="next"
+                             target="http://www.weber-gesamtausgabe.de/A041217">Next letter of
+                             <persName>Carl Maria von Weber</persName> to
+                             <persName>Caroline Brandt</persName>:
+                             <date when="1817-06-27">June 27, 1817</date>
+                         </ref>
+                     </correspContext>
+                 </correspDesc>
+             </profileDesc>
          </teiHeader>
          <text>
              <body>
                  <div>
+                     
                      <p/>
                      <p>שׂרתי החביבה, 
                          
@@ -126,6 +201,33 @@
                     <p/>
                 </sourceDesc>
             </fileDesc>
+            <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>אבשלום פיינברג</persName>
+                    <settlement>יפו</settlement>
+                    <date when="1917-01-07">07 Jan 1917</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>שרה אהרונסון</persName>
+                    <settlement>לא ידוע</settlement>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev"
+                        target="http://www.weber-gesamtausgabe.de/A041209">Previous letter of
+                        <persName>Carl Maria von Weber</persName> 
+                        to <persName>Caroline Brandt</persName>:
+                        <date from="1817-06-19" to="1817-06-20">June 19/20, 1817</date>
+                    </ref>
+                    <ref type="next"
+                        target="http://www.weber-gesamtausgabe.de/A041217">Next letter of
+                        <persName>Carl Maria von Weber</persName> to
+                        <persName>Caroline Brandt</persName>:
+                        <date when="1817-06-27">June 27, 1817</date>
+                    </ref>
+                </correspContext>
+            </correspDesc>
+                </profileDesc>
         </teiHeader>
         <text>
             <body>

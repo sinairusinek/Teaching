@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_corpus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_corpus.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>title of corpus</title>
+                <author>author</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI xml:id="Levin001">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title/>
+                    <author><persName>שמריהו לוין</persName></author>
+                </titleStmt>
+                <publicationStmt>
+                    <p>תויג על ידי סיני רוסינק על בסיס המהדורה האלקטרונית: "אגרות שמריהו לוין:
+                        פסיעות ראשונות". פרויקט בן-יהודה. אוחזר בתאריך 2018-05-19
+                        (http://bybe.benyehuda.org/read/8366)</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <biblStruct>
+                        <monogr>
+                            <author/>
+                            <title>אגרות שמריהו לוין: מבחר</title>
+                            <imprint>
+                                <publisher>דביר</publisher>
+                                <date/>
+                                <pubPlace>תל אביב</pubPlace>
+                            </imprint>
+                        </monogr>
+                    </biblStruct>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <correspDesc>
+                    <correspAction type="sent">
+                        <persName>שמריהו לוין</persName>
+                        <placeName>קניגסברג</placeName>
+                        <date when="1894-02-01">1.2.94</date>
+                    </correspAction>
+                    <correspAction type="received">
+                        <persName>ליאו מוצקין</persName>
+                        <placeName cert="medium">ברלין</placeName>
+                    </correspAction>
+                </correspDesc>
+            </profileDesc>
+        </teiHeader>
+
+        <text>
+            <body>
+                <div>
+                    <opener><dateline><placeName>קניגסברג</placeName><date>1.2.94
+                            </date></dateline><salute> ריעי וגבר עמית היקיר לי! </salute></opener>
+                    <p> אתמול הגיעני מכתבך, אחרי אשר שלחתי את מכתבי אני לידידינו
+                            <persName>וילענסקיא</persName>, ובשמחת לבב הנני מוכן ומזומן לקים מצות
+                        השבת אבדה גם אחרי יאוש בעלים, כלומר להשיב אהבה וחן לרעי היקיר לי אשר לא
+                        שכחתיו אף רגע, אם כי למראית עין התרחקנו איש מעל רעהו. ואיככה יכלתי לשכוח
+                        אותך, <persName>מאצקין</persName> יקירי, אחרי אשר מדי זכרי את שנות העונג
+                        והעבודה ב<placeName>ברלין</placeName> יעלה תמיד זכרונך לפני וכהרבות להעביר
+                        לפני את כל טוב הימים האלה זכר אזכרך עוד! אמנם רע היה הדבר לשנינו, כי נתנו
+                        להפריד בינינו על לא דבר ולשלוח מדנים בין רעים שעבודתם אחת ומטרתם אחת, אבל
+                        כבר נפלו ימי המדנים האלה ובזכרונות לא עוד יתחשבו, ואני תקוה כי הנסיון למדנו
+                        למדי לבלי לשחוק עוד באהבת רעים כאשר יצחקו הנערים. סוף סוף הנני אומר לך,
+                        יקירי, בתום לבב כי אהבתך יקרה לי עד למאד, ומאז הכרתיך עד היום הזה, ועד
+                        בכלל,ידעתי אכבדנה ולהתברך בה. מצטער אנכי, כי לא הודעתני מאומה מכל הנוגע בך
+                        בעצמך מיראה מדבר “פן” ו“אולי”, אחרי אשר לה“פן” ול“אולי” אין כל מקום באהבתנו.
+                        והנני מבקש ממך, יקירי, לתקוֹן את המעוּות ולהודיעני, מיד כשיגיע מכתבי זה
+                        לידך, מכל אשר דבר דבר על אפניו, ותברכך נפשי בעבור זאת. אני מצדי לא אוכל כעת
+                        למלאות את שאלתך, היא גם שאלת לבי, לכתוב לך בפרוטרוט, אך לא מיראת “פן”
+                        ו“אולי”, כי אם מפני שימי המבחן קרובים ובאים ומלא עבודה אנכי. ביום העשרים
+                        לחודש הזה אֵבּחן, ואו אז, כי אשליך מעל שכמי את המשא הכבד הזה, אמלא את שאלתך
+                        בנפש חפצה. והנני מחכה בכליון עינים למכתבך והנני ריעך לך </p>
+                    <closer>
+                        <signed> שמריה הלוי לעווין </signed></closer>
+                    <postscript>
+                        <p> אמור בשמי שלום לאחיך ולכל מכירינו הקרובים לנו. </p>
+                        <p>אהובתי מלאה את ידי להשיב לך שלום וחן.</p>
+
+                    </postscript>
+
+
+                </div>
+            </body>
+        </text>
+    </TEI>
+
+</teiCorpus>

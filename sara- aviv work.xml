@@ -16,6 +16,7 @@
 	           <p>Information about the source</p>
 	        </sourceDesc>
          </fileDesc>
+            <profileDesc> </profileDesc>
      </teiHeader>
      <TEI xml:id="MyTextNumber1">
          <teiHeader>

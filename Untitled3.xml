@@ -45,28 +45,15 @@
              <correspDesc>
                  
                  <correspAction type="sent">
-                     <persName>sara aharon</persName>
+                     <persName></persName>
                      <settlement>aarab</settlement>
                      <date when="1912-03-14">14-3-1912</date>
                  </correspAction>
                  <correspAction type="received">
-                     <persName>Caroline Brandt</persName>
+                     <persName>sara ahornson</persName>
                      <settlement>Prag</settlement>
                  </correspAction>
-                 <correspContext>
-                     <ref type="prev"
-                         target="http://www.weber-gesamtausgabe.de/A041209">Previous letter of
-                         <persName>fined berg</persName> 
-                         to <persName>sara aharon</persName>:
-                         <date from="1912-03-14" to="1912-03-21">16-03-1912</date>
-                     </ref>
-                     <ref type="next"
-                         target="http://www.weber-gesamtausgabe.de/A041217">Next letter of
-                         <persName>sara aharon</persName> to
-                         <persName>fines berg</persName>:
-                         <date when="1912-03-21">21-03-1912</date>
-                     </ref>
-                 </correspContext>
+                
              </correspDesc>
              
          </profileDesc>
@@ -113,8 +100,8 @@
          <text>
              <body>
                  <div type="letter">
-                     <p> שרתי החביבה,
-                         
+                     <opener> שרתי החביבה,</opener>
+                         <p>
                          קיבלתי שורותיך.  רציתי לשלוח לך תיכף רץ להודיעך כי האדון אהרנסון בא הערב, אבל מר ברמן הודיעני כי כבר הודיעו זאת לכם ע"י אחת העגלות ובכן החוואג'ה בעצמו כבר יהיה הרץ שלי. 
                          
                          *
@@ -132,15 +119,12 @@
                          זאת לא אומרת שאינך צריכה לספר לי מכל ה"שטותים".  שטותים אלו, שׂרתי, חיינו הם, בשרנו, דמנו, מוחנו ומחשבתנו, עמם אנחנו כלים וכבים, הולכים ומתנדפים כאֵד-הטל, הולכים ונאבדים כמים הנשפכים ארצה אשר לא ייאספו.  ספרי לי מכל מה שאַת רוצה, שרה, והיי בטוחה שאינך זוֹרה על צחיח-סלע. 
                          
                          די.  אני עייף, צריך עוד לכתוב לקטנה, הנני אומר לך שלום בכל לבּי, ומלטף את ידיך הטובות וצמותיך המאירות. 
-                         
-                         שלך, שרתי,
-                         
-                         אבשלום </p>
-                     <closer>
-                         <salute>fined berg </salute>
-                         <signed> sara ahrnson</signed>
-                     </closer>
-                 </div>
+                     </p><closer>
+                        
+                         <salute> שלך, שרתי </salute>
+                         <signed> אבשלום</signed>
+                     
+                </closer> </div> 
              </body>
          </text>
      </TEI>
